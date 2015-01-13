@@ -7,7 +7,7 @@ __(invitation only), March 26 - 27, 2015. San Francisco__
 
 Welcome to the repository for the 2015 unconference.  rOpenSci will be hosting its second major developer meeting and open science hackathon in San Francisco in March.
 
-* [Participants]()
+* [Participants](https://github.com/ropensci/unconf/wiki/Participants)
 * [Logistics](https://github.com/ropensci/unconf/wiki/Logistics)
 * Please post ideas for projects, discussion topics, and sessions as [issues](https://github.com/ropensci/unconf/issues/) and move to the wiki and/or a new repo within rOpenSci's account as needed.
 
