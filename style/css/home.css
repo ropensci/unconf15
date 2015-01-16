@@ -530,6 +530,10 @@ header {
   background: url("../../images/participants/susan-vanderplas.jpg") no-repeat;
   background-size: cover; }
 
+.dani-ushizima .participant-image {
+  background: url("../../images/participants/dani-ushzima.jpg") no-repeat;
+  background-size: cover; }
+
 
 .max-ogden .participant-image {
   background: url("../../images/participants/max-ogden.png") no-repeat;
