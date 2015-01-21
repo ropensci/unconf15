@@ -534,6 +534,10 @@ header {
   background: url("../../images/participants/dani-ushzima.jpg") no-repeat;
   background-size: cover; }
 
+.tracy-teal .participant-image {
+  background: url("../../images/participants/tracy-teal.jpg") no-repeat;
+  background-size: cover; }
+
 
 .max-ogden .participant-image {
   background: url("../../images/participants/max-ogden.png") no-repeat;
