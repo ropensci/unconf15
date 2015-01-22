@@ -21,5 +21,6 @@ This meeting is made possible by generous support from:
 
 [![Alfred P. Sloan foundation](http://i.imgur.com/GjPfx0d.png)](http://www.sloan.org/)   
 [![GitHub](http://i.imgur.com/3Pq3ZR5.png)](https://github.com/)  
+[![Google](http://i.imgur.com/1PF4QqD.jpg)](http://google.com/)
 [![Plotly](http://i.imgur.com/XyZa7x6.png)](http://plot.ly/)
 
