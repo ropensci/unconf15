@@ -347,14 +347,17 @@ header {
   margin-bottom: 20px;
 }      
 
-.coc-wrap li {
+/*.coc-wrap li {
 font-family: "proxima-nova-alt",sans-serif;
 font-style: normal;
 font-weight: 300;
-}
+}*/
 
 .coc-wrap ul {
-    list-style: square outside none;
+list-style: square outside none;
+font-family: "proxima-nova-alt",sans-serif;
+font-style: normal;
+font-weight: 300;
 }
 
 .bodybig {
