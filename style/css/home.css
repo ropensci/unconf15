@@ -353,6 +353,10 @@ font-style: normal;
 font-weight: 300;
 }
 
+.coc-wrap ul {
+    list-style: square outside none;
+}
+
 .bodybig {
   font-size: 150%;
   line-height: 1.7em;
@@ -362,6 +366,7 @@ font-weight: 300;
 .imp-stuff {
 font-family: "proxima-nova-alt",sans-serif;
 font-style: normal;
+font-size: 110%;
 font-weight: 700;
 color: #c0392b;
 }
