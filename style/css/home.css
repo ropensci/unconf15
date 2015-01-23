@@ -229,10 +229,12 @@ header {
       margin: -20.5rem auto 0; } }
 
 .byline {
-  font-family: "museo",serif;
   line-height: 1.2em;
+  font-family: "brandon-grotesque",sans-serif;
+  font-style: normal;
+  font-variant: small-caps;
   font-weight: 700;
-  font-size: 165%;
+  font-size: 200%;
   width: 20rem;
   margin: 4rem auto 2rem; }
   @media only screen and (min-width: 700px) {
@@ -313,6 +315,7 @@ header {
 .intro-wrap {
   width: 100%;
   color: #fff;
+  font-size: 1.1em;
   line-height: 1.8em;
   /*background: #4fb3e0;*/
   background: #3498db;
@@ -323,16 +326,28 @@ header {
       margin: 10rem auto;
        } }
 
+.intro-wrap a  {
+  color: #f1c40f;
+}       
+
+.intro-wrap a:visited  {
+  color: #f1c40f;
+}       
+
+
+
 .coc-wrap {
-  width: 80%;
+  width: 85%;
   font-family: "proxima-nova-alt";
   color: #34495e;
   font-size: 110%;
   line-height: 2em;
+  margin-left: 10px;
+  margin-right: 10px;
   }
   @media only screen and (min-width: 1100px) {
     .coc-wrap {
-      width: 80%;
+      width: 85%;
       margin: 4rem auto 0; } }
 @media only screen and (min-width: 700px) {
     .coc-wrap {
@@ -345,6 +360,8 @@ header {
 .coc-wrap p {
   margin-top: 20px;
   margin-bottom: 20px;
+  margin-left: 10px;
+  margin-right: 10px;
 }      
 
 /*.coc-wrap li {
@@ -358,12 +375,17 @@ list-style: square outside none;
 font-family: "proxima-nova-alt",sans-serif;
 font-style: normal;
 font-weight: 300;
+margin-left: 10px;
+margin-right: 10px;
 }
 
 .bodybig {
   font-size: 150%;
   line-height: 1.7em;
   padding-bottom: 20px;
+  margin-left: 10px;
+  margin-right: 10px;
+  text-align: left;
 }
 
 .imp-stuff {
@@ -374,9 +396,9 @@ font-weight: 700;
 color: #c0392b;
 }
 
-.intro-wrap a {
+/*.intro-wrap a {
   color: #2c3e50;
-}      
+}  */    
 
 .intro {
   margin-top: 0; }
@@ -597,6 +619,14 @@ color: #c0392b;
 
 .david-robinson .participant-image {
   background: url("../../images/participants/david-robinson.jpg") no-repeat;
+  background-size: cover; }
+
+.david-robinson .participant-image {
+  background: url("../../images/participants/david-robinson.jpg") no-repeat;
+  background-size: cover; }
+
+.ryan-hafen .participant-image {
+  background: url("../../images/participants/ryan-hafen.jpg") no-repeat;
   background-size: cover; }
 
 
@@ -960,6 +990,7 @@ footer {
   font-variant: small-caps;
   margin-bottom: 1rem; 
   text-align: center;
+
 }
 
 
