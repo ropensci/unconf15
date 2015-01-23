@@ -319,7 +319,7 @@ header {
   padding: 4rem 0; }
   @media only screen and (min-width: 1100px) {
     .intro-wrap {
-      width: 60%;
+      width: 80%;
       margin: 10rem auto;
        } }
 
@@ -332,11 +332,11 @@ header {
   }
   @media only screen and (min-width: 1100px) {
     .coc-wrap {
-      width: 60%;
+      width: 80%;
       margin: 4rem auto 0; } }
 @media only screen and (min-width: 700px) {
     .coc-wrap {
-      width: 70%;
+      width: 80%;
       margin: 2rem auto 0; } }
 
 
