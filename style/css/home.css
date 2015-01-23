@@ -359,6 +359,13 @@ font-weight: 300;
   padding-bottom: 20px;
 }
 
+.imp-stuff {
+font-family: "proxima-nova-alt",sans-serif;
+font-style: normal;
+font-weight: 700;
+color: #c0392b;
+}
+
 .intro-wrap a {
   color: #2c3e50;
 }      
