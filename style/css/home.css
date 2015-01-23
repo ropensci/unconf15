@@ -347,6 +347,12 @@ header {
   margin-bottom: 20px;
 }      
 
+.coc-wrap li {
+font-family: "proxima-nova-alt",sans-serif;
+font-style: normal;
+font-weight: 300;
+}
+
 .bodybig {
   font-size: 150%;
   line-height: 2em;
