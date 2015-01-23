@@ -542,6 +542,10 @@ header {
   background: url("../../images/participants/olivia-lau.jpg") no-repeat;
   background-size: cover; }
 
+.david-robinson .participant-image {
+  background: url("../../images/participants/david-robinson.jpg") no-repeat;
+  background-size: cover; }
+
 
 .max-ogden .participant-image {
   background: url("../../images/participants/max-ogden.png") no-repeat;
