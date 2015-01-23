@@ -354,22 +354,22 @@ header {
       padding: 0.5rem 0 0 9rem; } }
   @media only screen and (min-width: 960px) {
     .participant {
-      padding: 0rem 0 0 12rem;
+      padding: 0rem 6rem 8rem 18rem;
       margin-bottom: 8rem; } }
 
 .participant-image {
   background: #eee;
   border-radius: 50%;
   margin-bottom: 1rem;
-  height: 4em;
-  width: 4em; }
+  height: 6em;
+  width: 6em; }
   @media only screen and (min-width: 960px) {
     .participant-image {
       left: 0;
       top: 0;
       position: absolute;
-      height: 10rem;
-      width: 10rem; } }
+      height: 14rem;
+      width: 14rem; } }
 
 
 .participant-name {
