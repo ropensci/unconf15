@@ -231,10 +231,12 @@ header {
 .byline {
   line-height: 1.2em;
   font-family: "brandon-grotesque",sans-serif;
+  /*color: #34495e;*/
+  color: #2c3e50;
   font-style: normal;
   font-variant: small-caps;
   font-weight: 700;
-  font-size: 200%;
+  font-size: 225%;
   width: 20rem;
   margin: 4rem auto 2rem; }
   @media only screen and (min-width: 700px) {
@@ -973,24 +975,28 @@ Drop the image in the participants folder and link to either the png or jpg vers
 
 footer {
   width: 90%;
+  text-align: center;
   margin: 10rem auto 10rem; }
   @media only screen and (min-width: 700px) {
     footer {
-      width: 56rem; } }
+      width: 26rem;
+      text-align: center; } }
   @media only screen and (min-width: 1100px) {
     footer {
-      width: 100rem; } }
+      width: 100rem;
+      text-align: center; } }
   footer a {
     color: #27ae60;
     text-decoration: none;
-    font-weight: 500; }
+    font-weight: 500; 
+  text-align: center;
+  }
 
 .foot-wrap p {
-  
-  font-variant: small-caps;
-  margin-bottom: 1rem; 
-  text-align: center;
-
+  font-variant: small-caps; 
+  width: 90%;
+  margin-left: 3px;
+  margin-right: 3px;
 }
 
 
