@@ -225,7 +225,25 @@ header {
         clear: both; } }
   @media only screen and (min-width: 960px) {
     .site-nav {
+      margin: -25.5rem auto 0; } }
+
+
+.site-nav-coc {
+  margin: 4rem auto; }
+  @media only screen and (min-width: 700px) {
+    .site-nav-coc {
+      width: 100%;
+      float: left; }
+      .site-nav-coc:after {
+        content: "";
+        display: table;
+        clear: both; } }
+  @media only screen and (min-width: 960px) {
+    .site-nav-coc {
       margin: -20.5rem auto 0; } }
+
+
+
 
 .byline {
   line-height: 1.2em;
@@ -237,22 +255,17 @@ header {
   font-weight: 700;
   font-size: 250%;
   width: 20rem;
-  margin: 4rem auto 2rem; }
+  /*margin: 4rem auto 2rem; */}
   @media only screen and (min-width: 700px) {
     .byline {
       width: 100%; } }
 
 .byline-italic {
   font-style: italic;
-  font-size: 110%;
-  line-height: 1.2em;
-  /*padding-top: 3px;
-  padding-bottom: 3px;*/
 }    
 
 .byline-other {
-  font-size: 105%;
-  line-height: 1.2em;
+  /*line-height: 1.2em;*/
 }  
 
 .nav-link {
