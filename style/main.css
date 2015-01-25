@@ -234,9 +234,9 @@ header {
   /*color: #34495e;*/
   color: #2c3e50;
   font-style: normal;
-  font-variant: small-caps;
+  /*font-variant: small-caps;*/
   font-weight: 700;
-  font-size: 225%;
+  font-size: 250%;
   width: 20rem;
   margin: 4rem auto 2rem; }
   @media only screen and (min-width: 700px) {
@@ -393,9 +393,9 @@ margin-right: 10px;
 .imp-stuff {
 font-family: "proxima-nova-alt",sans-serif;
 font-style: normal;
-font-size: 110%;
+font-size: 128%;
 font-weight: 700;
-color: #c0392b;
+/*color: #c0392b;*/
 }
 
 /*.intro-wrap a {
