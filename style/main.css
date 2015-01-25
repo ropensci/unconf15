@@ -278,6 +278,11 @@ header {
   color: #e74c3c;
 }
 
+.supp-nocolor {
+  vertical-align: super;
+  font-size: 75%;
+}
+
 .nav-link {
   text-decoration: none;
   border: 1px solid #27ae60;
