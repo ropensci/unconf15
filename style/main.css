@@ -272,6 +272,12 @@ header {
   /*line-height: 1.2em;*/
 }
 
+.supp {
+  vertical-align: super;
+  font-size: 50%;
+  color: #e74c3c;
+}
+
 .nav-link {
   text-decoration: none;
   border: 1px solid #27ae60;
