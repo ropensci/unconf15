@@ -12,7 +12,6 @@ audio[controls], canvas, video {
   *display: inline;
   *zoom: 1; }
 
-/* Eric Meyer's Reset CSS */
 html, body, div, span, applet, object, iframe,
 h1, h2, h3, h4, h5, h6, p, blockquote, pre,
 a, abbr, acronym, address, big, cite, code,
@@ -212,6 +211,7 @@ header {
   display: block; }
 
 .date-location-wrap p {
+  margin-top: 5px;
   text-align: center; }
 
 .site-nav {
@@ -304,7 +304,7 @@ header {
     .intro-image {
       display: block;
       width: 85%;
-      margin: 10rem auto 14rem; } }
+      margin: 2rem auto 2rem; } }
 
 .intro-image-small {
   display: block;
@@ -487,6 +487,11 @@ color: #c0392b;
 .apply-wrap .further-col a {
   color: #f1c40f
 }
+
+.further-col img {
+  margin-top: 20px;
+  margin-bottom: 5px;
+}
 /*end applications*/
 
 
@@ -630,7 +635,6 @@ color: #c0392b;
 .ryan-hafen .participant-image {
   background: url("../../images/participants/ryan-hafen.jpg") no-repeat;
   background-size: cover; }
-
 
 .max-ogden .participant-image {
   background: url("../../images/participants/max-ogden.png") no-repeat;
