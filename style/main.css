@@ -255,7 +255,7 @@ header {
   font-weight: 700;
   font-size: 250%;
   width: 20rem;
-  /*margin: 4rem auto 2rem; */}
+  margin: 4rem auto 2rem; }
   @media only screen and (min-width: 700px) {
     .byline {
       width: 100%; } }
