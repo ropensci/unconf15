@@ -225,7 +225,7 @@ header {
         clear: both; } }
   @media only screen and (min-width: 960px) {
     .site-nav {
-      margin: -25.5rem auto 0; } }
+      margin: -30.5rem auto 0; } }
 
 
 .site-nav-coc {
@@ -240,7 +240,7 @@ header {
         clear: both; } }
   @media only screen and (min-width: 960px) {
     .site-nav-coc {
-      margin: -20.5rem auto 0; } }
+      margin: -25.5rem auto 0; } }
 
 .byline {
   line-height: 1.2em;
@@ -250,7 +250,7 @@ header {
   font-style: normal;
   /*font-variant: small-caps;*/
   font-weight: 700;
-  font-size: 250%;
+  font-size: 400%;
   width: 20rem;
   margin: 4rem auto 2rem; }
   @media only screen and (min-width: 700px) {
@@ -259,11 +259,13 @@ header {
 
 .byline-italic {
   font-style: italic;
+  font-size: 110%;
 }    
 
 .byline-other {
+    font-size: 110%;
   /*line-height: 1.2em;*/
-}  
+}
 
 .nav-link {
   text-decoration: none;
