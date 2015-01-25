@@ -242,9 +242,6 @@ header {
     .site-nav-coc {
       margin: -20.5rem auto 0; } }
 
-
-
-
 .byline {
   line-height: 1.2em;
   font-family: "brandon-grotesque",sans-serif;
@@ -992,24 +989,29 @@ Drop the image in the participants folder and link to either the png or jpg vers
 footer {
   width: 90%;
   text-align: center;
-  margin: 10rem auto 10rem; }
-  @media only screen and (min-width: 700px) {
+  margin: 10rem auto 10rem; 
+  padding: 4px; }
+    @media only screen and (min-width: 700px) {
     footer {
-      width: 26rem;
+      width: 60rem;
       text-align: center; } }
-  @media only screen and (min-width: 1100px) {
-    footer {
-      width: 100rem;
-      text-align: center; } }
-  footer a {
-    color: #27ae60;
+    @media only screen and (min-width: 1100px) {
+      footer {
+        width: 100rem;
+        text-align: center; } }
+    @media only screen and (max-width: 480px) {
+        footer { 
+            display : none; 
+            visibility : hidden; 
+        } }
+      
+/*  footer a {
     text-decoration: none;
     font-weight: 500; 
-  text-align: center;
-  }
+    text-align: center;
+  }*/
 
 .foot-wrap p {
-  font-variant: small-caps; 
   width: 90%;
   margin-left: 3px;
   margin-right: 3px;
