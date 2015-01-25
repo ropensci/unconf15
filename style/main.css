@@ -211,7 +211,6 @@ header {
   display: block; }
 
 .date-location-wrap p {
-  margin-top: 5px;
   text-align: center; }
 
 .site-nav {
@@ -247,8 +246,8 @@ header {
   font-style: italic;
   font-size: 110%;
   line-height: 1.2em;
-  padding-top: 3px;
-  padding-bottom: 3px;
+  /*padding-top: 3px;
+  padding-bottom: 3px;*/
 }    
 
 .byline-other {
