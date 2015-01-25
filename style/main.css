@@ -256,6 +256,11 @@ header {
   @media only screen and (min-width: 700px) {
     .byline {
       width: 100%; } }
+  @media only screen and (max-width: 400px) {
+    .byline {
+      width: 100%;
+      margin: 2rem 2rem 2rem -1rem; } }
+
 
 .byline-italic {
   font-style: italic;
