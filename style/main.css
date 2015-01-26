@@ -273,6 +273,7 @@ header {
 }
 
 .supp {
+  font-style: normal;
   vertical-align: super;
   font-size: 65%;
   color: #e74c3c;
