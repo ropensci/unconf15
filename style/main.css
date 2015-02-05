@@ -669,6 +669,14 @@ font-weight: 700;
   background: url("../../images/participants/ricardo-bion.jpg") no-repeat;
   background-size: cover; }
 
+
+.gabe-becker .participant-image {
+  background: url("../../images/participants/gabe-becker.jpg") no-repeat;
+  background-size: cover; }
+
+
+
+
 /*To add new participants, create a class like the ones above.
 Use .firstname-lastname
 Drop the image in the participants folder and link to either the png or jpg versions. gifs are also fine*/
