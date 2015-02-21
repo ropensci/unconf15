@@ -705,6 +705,12 @@ font-weight: 700;
 
 
 
+.jamie-afflerbach .participant-image {
+  background: url("../../images/participants/jamie-afflerbach.jpg") no-repeat;
+  background-size: cover; }
+
+
+
 
 /*To add new participants, create a class like the ones above.
 Use .firstname-lastname
