@@ -703,10 +703,17 @@ font-weight: 700;
   background: url("../../images/participants/talita-perciano.jpg") no-repeat;
   background-size: cover; }
 
-
-
 .jamie-afflerbach .participant-image {
   background: url("../../images/participants/jamie-afflerbach.jpg") no-repeat;
+  background-size: cover; }
+
+.jillian-dunic .participant-image {
+  background: url("../../images/participants/jillian-dunic.jpg") no-repeat;
+  background-size: cover; }
+
+
+.francois-michonneau .participant-image {
+  background: url("../../images/participants/francois-michonneau.jpg") no-repeat;
   background-size: cover; }
 
 
