@@ -726,6 +726,11 @@ font-weight: 700;
   background-size: cover; }
 
 
+.ben-ogorek .participant-image {
+  background: url("../../images/participants/ben_ogorek.png") no-repeat;
+  background-size: cover; }
+
+
 
 
 /*To add new participants, create a class like the ones above.
