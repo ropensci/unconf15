@@ -261,6 +261,11 @@ header {
       width: 100%;
       margin: 2rem 2rem 2rem -1rem; } }
 
+p.nextyear {
+    text-align: center;
+    font-family: "brandon-grotesque",sans-serif;
+    font-size: 200%;
+}
 
 .byline-italic {
   font-style: italic;
